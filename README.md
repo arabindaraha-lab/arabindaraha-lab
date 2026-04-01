@@ -63,7 +63,7 @@ Percentage: 87.57%
 ---
 
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arabinda-raha-5a6a6b1ba) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arabindaraha32419@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arabinda-raha-5a6a6b1ba) [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arabindaraha32419@gmail.com)
 
 ---
 
