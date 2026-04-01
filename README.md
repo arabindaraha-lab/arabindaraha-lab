@@ -64,21 +64,17 @@ Percentage: 87.57%
 
 ## Contact
 
-<p align="center">
-  
-  <a href="mailto:arabindaraha32419@gmail.com">
-    <img src="https://img.shields.io/badge/Email-App-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arabindaraha32419@gmail.com">
-    <img src="https://img.shields.io/badge/Open%20in-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/arabinda-raha-5a6a6b1ba">
-    <img src="https://img.shields.io/badge/LinkedIn-Arabinda%20Raha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="mailto:arabindaraha32419@gmail.com">
+  <img src="https://img.shields.io/badge/Email-App-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-</p>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=arabindaraha32419@gmail.com">
+  <img src="https://img.shields.io/badge/Open%20in-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/arabinda-raha-5a6a6b1ba">
+  <img src="https://img.shields.io/badge/LinkedIn-Arabinda%20Raha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
