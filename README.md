@@ -94,3 +94,13 @@ Percentage: 87.57%
   </a>
 
 </p>
+<h2 align="center">📬 Contact Me</h2>
+
+<p align="center">
+  <a href="mailto:arabindaraha32419@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arabindaraha32419@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Open-red?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
