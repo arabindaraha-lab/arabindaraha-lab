@@ -73,3 +73,24 @@ Percentage: 87.57%
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arabindaraha-lab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+## 📬 Connect With Me
+
+<p align="center">
+  
+  <a href="mailto:arabindaraha32419@gmail.com">
+    <img src="https://img.shields.io/badge/Email-App-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arabindaraha32419@gmail.com">
+    <img src="https://img.shields.io/badge/Open%20in-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</p>
