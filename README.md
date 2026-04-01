@@ -79,8 +79,14 @@ Percentage: 87.57%
 ---
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=arabindaraha-lab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arabindaraha-lab&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arabindaraha-lab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arabindaraha-lab&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=arabindaraha-lab&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabindaraha-lab&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" height="150"/>
+</p>
 
 ---
