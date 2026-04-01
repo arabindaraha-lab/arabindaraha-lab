@@ -63,17 +63,6 @@ Percentage: 87.57%
 ---
 
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arabinda-raha-5a6a6b1ba) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arabindaraha32419@gmail.com)
-
----
-
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=arabindaraha-lab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arabindaraha-lab&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arabindaraha-lab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-## 📬 Connect With Me
 
 <p align="center">
   
@@ -85,22 +74,17 @@ Percentage: 87.57%
     <img src="https://img.shields.io/badge/Open%20in-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/arabinda-raha-5a6a6b1ba">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 
 </p>
-<h2 align="center">📬 Contact Me</h2>
 
-<p align="center">
-  <a href="mailto:arabindaraha32419@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arabindaraha32419@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Open-red?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+---
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=arabindaraha-lab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=arabindaraha-lab&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arabindaraha-lab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
