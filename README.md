@@ -39,7 +39,7 @@ VS Code
 
 ## Projects
 
-### Airbnb Listings & Business Analysis | Data Analytics Project
+### 1. Airbnb Listings & Business Analysis
 **Tools:** Excel, Google Sheets, and Looker Studio
 - Analyzed 50,000 Airbnb listings to evaluate revenue, pricing, and demand trends
 - Built interactive dashboards for visualization
@@ -47,6 +47,13 @@ VS Code
 - Discovered high reliance on individual hosts and dominance of entire home listings
 - Provided recommendations on dynamic pricing, demand optimization, and supply balance
 - Suggested strategies to improve low-performing listings and increase occupancy rates
+
+### 2. Spotify User Behavior & Pattern Analysis
+**Tools:** Excel, Google Sheets
+- Analyzed 5,000 user records to identify engagement patterns, churn trends, and subscription behavior
+- Built an interactive dashboard to track KPIs like listening hours, skips, engagement levels, and conversion rates
+- Identified key insights like 21.5% churn rate, low free-to-paid conversion, and moderate engagement dominance
+- Provided actionable recommendations to improve retention, boost premium subscriptions, and enhance user experience
 
 ---
 
