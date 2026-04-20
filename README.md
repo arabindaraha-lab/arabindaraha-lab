@@ -38,7 +38,15 @@ VS Code
 ---
 
 ## Projects
-Projects will be added soon. Currently working on real-world data analytics projects.
+
+### Airbnb Listings & Business Analysis | Data Analytics Project
+**Tools:** Excel, Google Sheets, and Looker Studio
+- Analyzed 50,000 Airbnb listings to evaluate revenue, pricing, and demand trends
+- Built interactive dashboards for visualization
+- Identified key insights on price sensitivity, host distribution, and geographic demand
+- Discovered high reliance on individual hosts and dominance of entire home listings
+- Provided recommendations on dynamic pricing, demand optimization, and supply balance
+- Suggested strategies to improve low-performing listings and increase occupancy rates
 
 ---
 
