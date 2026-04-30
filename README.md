@@ -39,7 +39,17 @@ VS Code
 
 ## Projects
 
-### 1. Airbnb Listings & Business Analysis
+### 1. Blinkit Sales Trends & Consumer Behavior Analysis
+**Tools:** Excel, Google Sheets, Looker Studio
+- Analyzed end-to-end business data (orders, revenue, delivery, customer, and marketing) to evaluate overall performance
+- Built interactive dashboards to track revenue trends, demand patterns, and operational efficiency
+- Identified strong revenue (₹11.01M) and AOV (₹1,092) with clear seasonal and time-based demand trends
+- Detected key operational issues including ~30% delayed deliveries and low basket size (2.01 items/order)
+- Highlighted high-performing categories (e.g., Pet Care) and margin leakage in high-demand segments
+- Evaluated marketing effectiveness with profitable ROAS (2.38) and identified conversion drop-offs
+- Provided actionable recommendations to improve delivery efficiency, customer retention, demand distribution, and campaign performance
+
+### 2. Airbnb Listings & Business Analysis
 **Tools:** Excel, Google Sheets, and Looker Studio
 - Analyzed 50,000 Airbnb listings to evaluate revenue, pricing, and demand trends
 - Built interactive dashboards for visualization
@@ -48,7 +58,7 @@ VS Code
 - Provided recommendations on dynamic pricing, demand optimization, and supply balance
 - Suggested strategies to improve low-performing listings and increase occupancy rates
 
-### 2. Spotify User Behavior & Pattern Analysis
+### 3. Spotify User Behavior & Pattern Analysis
 **Tools:** Excel, Google Sheets
 - Analyzed 5,000 user records to identify engagement patterns, churn trends, and subscription behavior
 - Built an interactive dashboard to track KPIs like listening hours, skips, engagement levels, and conversion rates
